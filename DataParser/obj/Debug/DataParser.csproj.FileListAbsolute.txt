@@ -1,0 +1,16 @@
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser.csprojAssemblyReference.cache
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\MainWindow.g.cs
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\App.g.cs
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser_MarkupCompile.cache
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser_MarkupCompile.lref
+C:\Users\kuple\source\repos\DataParser\DataParser\bin\Debug\DataParser.exe.config
+C:\Users\kuple\source\repos\DataParser\DataParser\bin\Debug\DataParser.exe
+C:\Users\kuple\source\repos\DataParser\DataParser\bin\Debug\DataParser.pdb
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\MainWindow.baml
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser.g.resources
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser.Properties.Resources.resources
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser.csproj.GenerateResource.cache
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser.csproj.CoreCompileInputs.cache
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser.exe
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser.pdb
+C:\Users\kuple\source\repos\DataParser\DataParser\obj\Debug\DataParser.csproj.ResolveComReference.cache
